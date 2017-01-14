@@ -8,7 +8,7 @@ The launch image used is below:
 
 This image works on all supported iOS devices; the important content is in the center of the image and is small enough that it isn't cropped in any supported viewport orientation or adaptation.
 
-[View iOS simulation](https://cdn.rawgit.com/kerrishotts/launch-storyboard-images-previewer/0.3-release/index.html?at2x-universal-anyany=/kerrishotts/lsb-example-simple/www/res/screen/ios/Default@2x%7Euniversal%7Eanyany.png)
+[View iOS simulation](https://cdn.rawgit.com/kerrishotts/launch-storyboard-images-previewer/0.3-release/index.html?at2x-universal-anyany=https://github.com/kerrishotts/lsb-example-simple/raw/master/www/res/screen/ios/Default%402x%7Euniversal%7Eanyany.png)
 
 ## Credits
 
