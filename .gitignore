@@ -1,4 +1,6 @@
 hooks/
 platforms/
 plugins/
+node_modules/
 .git
+build.json

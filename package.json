@@ -1,0 +1,17 @@
+{
+    "name": "com.example.lsb.simple",
+    "version": "1.0.0",
+    "displayName": "Simple LSB",
+    "cordova": {
+        "platforms": [
+            "ios"
+        ],
+        "plugins": {
+            "cordova-plugin-splashscreen": {}
+        }
+    },
+    "dependencies": {
+        "cordova-ios": "latest",
+        "cordova-plugin-splashscreen": "^4.0.3"
+    }
+}
