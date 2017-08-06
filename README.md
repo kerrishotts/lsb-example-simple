@@ -4,11 +4,11 @@ Based on [the PhoneGap Hello World template](https://github.com/phonegap/phonega
 
 The launch image used is below:
 
-![Launch Image](./www/res/screen/ios/Default@2x~universal~anyany.png)
+![Launch Image](./res/screen/ios/Default@2x~universal~anyany.png)
 
 This image works on all supported iOS devices; the important content is in the center of the image and is small enough that it isn't cropped in any supported viewport orientation or adaptation.
 
-[View iOS simulation](https://cdn.rawgit.com/kerrishotts/launch-storyboard-images-previewer/0.3-release/index.html?at2x-universal-anyany=https://github.com/kerrishotts/lsb-example-simple/raw/master/www/res/screen/ios/Default%402x%7Euniversal%7Eanyany.png)
+[View iOS simulation](https://cdn.rawgit.com/kerrishotts/launch-storyboard-images-previewer/0.3-release/index.html?at2x-universal-anyany=https://github.com/kerrishotts/lsb-example-simple/raw/master/res/screen/ios/Default%402x%7Euniversal%7Eanyany.png)
 
 ## Credits
 
